@@ -1,6 +1,8 @@
 # About
 Welcome to the Github Repository for the Center for the Computational Biology, Uganda Christian University. We are located at the Medical School of the Uganda Christian University.
 
+The Center is an affiliate of the Makerere University/UVRI Infection and Immunity Research Training Programme (MUII plus). YOu can learn about MUII plus by visiting https://www.uvri.go.ug/projects/muii-plus
+
 # Vision
 Our vision is to become a center for computational biology and a world leader in quality computational biology research.
 
