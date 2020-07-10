@@ -16,10 +16,8 @@ Use of mathematical and computational methods is becoming an integral part of bi
 (ii) Give quantitative training to other African scientists.
 
 # The team
-1. Dr John Kitayimbwa (Director, Center for Computational Biology, Uganda Christian University; DVC academic affairs, Uganda Christian University; PhD Compuatational Biology; MPhil in Computational Biology; Masters in Mathematics; Bachelor of Science with Education: Mathematics, Chemistry)
-Email: jkitayimbwa@ucu.ac.ug
-2. Dr Ronald Galiwango (Senior Scientist, Center for Computational Biology, Uganda Christian University; PhD in Epidemiology: Computational Epidemiology = Bioinformatics + Classical Epidemiology; MPhil in Computational Biology, BSc., (Mathematics, Statistics))
-Email: rgaliwango@ucu.ac.ug
+1. Dr John Kitayimbwa (Director, Center for Computational Biology, Uganda Christian University; DVC academic affairs, Uganda Christian University; PhD Compuatational Biology; MPhil in Computational Biology; Masters in Mathematics; Bachelor of Science with Education: Mathematics, Chemistry); Email: jkitayimbwa@ucu.ac.ug
+2. Dr Ronald Galiwango (Senior Scientist, Center for Computational Biology, Uganda Christian University; PhD in Epidemiology: Computational Epidemiology = Bioinformatics + Classical Epidemiology; MPhil in Computational Biology, BSc., (Mathematics, Statistics)); Email: rgaliwango@ucu.ac.ug
 3. Oliva Nanteza (Administrator: onanteza@ucu.ac.ug)
 4. Dr Aloysius Semaganda
 5. Ronald Katende (Masters in Financial Mathematics; BSc., (Mathematics, Statistics))
