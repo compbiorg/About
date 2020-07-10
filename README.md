@@ -17,14 +17,25 @@ Use of mathematical and computational methods is becoming an integral part of bi
 
 # The team
 1. Dr John Kitayimbwa (Director, Center for Computational Biology, Uganda Christian University; DVC academic affairs, Uganda Christian University; PhD Compuatational Biology; MPhil in Computational Biology; Masters in Mathematics; Bachelor of Science with Education: Mathematics, Chemistry)
+Email: jkitayimbwa@ucu.ac.ug
 2. Dr Ronald Galiwango (Senior Scientist, Center for Computational Biology, Uganda Christian University; PhD in Epidemiology: Computational Epidemiology = Bioinformatics + Classical Epidemiology; MPhil in Computational Biology, BSc., (Mathematics, Statistics))
-3. Ronald Katende (Masters in Financial Mathematics; BSc., (Mathematics, Statistics))
+Email: rgaliwango@ucu.ac.ug
+3. Oliva Nanteza (Administrator: onanteza@ucu.ac.ug)
 4. Dr Aloysius Semaganda
-5. Bumba James
+5. Ronald Katende (Masters in Financial Mathematics; BSc., (Mathematics, Statistics))
 6. Dr. Agnes Kiraga
 7. Dr. Daudi Jingo
 8. Dr. Nicholas Bbosa
 9. Jamila Nazziwa (PhD student)
 10. Dr Samuel Kirimunda
 11. Grace Nabakooza (PhD student)
+
+# New members (July 2020)
+1. Bumba James
+2. Bernard Molho
+3. Brian Kasozi
+4. Henry Sseguya
+5. Martha Kirabo
+6. Martin Kubanja
+7. Vincent Arumadri
 
