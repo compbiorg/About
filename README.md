@@ -22,18 +22,17 @@ Our vision is to become a world leader in quality computational biology research
 4. Dr Aloysius Semaganda
 5. Ronald Katende (Masters in Financial Mathematics; BSc., (Mathematics, Statistics))
 6. Dr. Agnes Kiraga
-7. Dr. Daudi Jingo
-8. Dr. Nicholas Bbosa
-9. Jamila Nazziwa (PhD student)
+7. Dr. Joseph Ssebuliba
+8. Dr. Henry Kasumba
+9. Dr. Juliet Nakakawa
 10. Dr Samuel Kirimunda
-11. Grace Nabakooza (PhD student)
-
-# New members (July 2020)
-1. Bumba James
-2. Bernard Molho
-3. Brian Kasozi
-4. Henry Sseguya
-5. Martha Kirabo
-6. Martin Kubanja
-7. Vincent Arumadri
+11. Jamila Nazziwa (PhD candidate)
+12. Dr Ismail Mirumbe
+13. Bumba James
+14. Bernard Molho Wabwire
+15. Brian Kasozi
+16. Henry Sseguya
+17. Martha Kirabo
+18. Martin Kubanja
+19. Vincent Arumadri
 
