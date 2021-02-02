@@ -27,7 +27,7 @@ Our vision is to become a world leader in quality computational biology research
 9. Dr. Juliet Nakakawa
 10. Dr Samuel Kirimunda
 11. Jamila Nazziwa (PhD candidate)
-12. Dr Ismail Mirumbe
+12. Dr Doreen Sebuliba
 13. Bumba James
 14. Bernard Molho Wabwire
 15. Brian Kasozi
