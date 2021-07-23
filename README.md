@@ -17,22 +17,20 @@ Our vision is to become a world leader in quality computational biology research
 
 # The team
 1. Dr John Kitayimbwa (Director, Center for Computational Biology, Uganda Christian University; DVC academic affairs, Uganda Christian University; PhD Compuatational Biology; MPhil in Computational Biology; Masters in Mathematics; Bachelor of Science with Education: Mathematics, Chemistry); Email: jkitayimbwa@ucu.ac.ug
-2. Dr Ronald Galiwango (Senior Scientist, Center for Computational Biology, Uganda Christian University; PhD in Epidemiology: Computational Epidemiology = Bioinformatics + Classical Epidemiology; MPhil in Computational Biology, BSc., (Mathematics, Statistics)); Email: rgaliwango@ucu.ac.ug
-3. Oliva Nanteza (Administrator: onanteza@ucu.ac.ug)
-4. Dr Aloysius Semaganda
-5. Ronald Katende (Masters in Financial Mathematics; BSc., (Mathematics, Statistics))
-6. Dr. Agnes Kiraga
-7. Dr. Joseph Ssebuliba
-8. Dr. Henry Kasumba
-9. Dr. Juliet Nakakawa
-10. Dr Samuel Kirimunda
+2. Dr Ronald Galiwango (Senior Scientist, Center for Computational Biology, Uganda Christian University; PhD in Computational Epidemiology = Bioinformatics + Classical Epidemiology; MPhil in Computational Biology, BSc., (Mathematics, Statistics)); Email: rgaliwango@ucu.ac.ug
+3. Dr Hassan Kayondo (Mathematical and statistical modelling and Phylogenetics)
+4. Dr Aloysius Semaganda (Immunology)
+5. Dr Doreen Ssebuliba Mbabazi (Mathematical modelling)
+6. Dr. Agnes Kiragga (Statistics, data science)
+7. Dr. Joseph Ssebuliba (Mathematical modelling)
+8. Dr. Henry Kasumba (Systems Diffusion)
+9. Dr. Juliet Nakakawa (Mathematical modelling)
+10. Dr. Nicholas Bbosa (Phylogenetics)
 11. Jamila Nazziwa (PhD candidate)
-12. Dr Doreen Sebuliba
-13. Bumba James
-14. Bernard Molho Wabwire
-15. Brian Kasozi
-16. Henry Sseguya
-17. Martha Kirabo
-18. Martin Kubanja
-19. Vincent Arumadri
+12. Vincent Arumadri 
+13. Bumba James (Programming, computer science)
+14. Bernard Molho Wabwire (administrator)
+15. Martha Kirabo (MA, Economic Policy)
+16. Agnes Namyalo (Data science and machine learning)
+17. Letisha Najjemba (Mathematical and Statistical modelling)
 
