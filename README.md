@@ -11,13 +11,16 @@ Our vision is to become a world leader in quality computational biology research
 
 # Objectives
 1.	To perform high quality computational health research, with a focus on mathematical modeling and genomics. 
-2.	To build a strong quantitative team of computational biologists in Africa so as to redress the capacity problem and provide a focus for computational biology in Uganda and Africa at large by
+2.	To give ‘policy related’ second opinion modeling to government and industry.
+3.	To build a strong quantitative team of computational biologists in Africa so as to redress the capacity problem and provide a focus for computational biology in Uganda and Africa at large by
 (i)	Pooling together African scientists with quantitative skills.
-(ii) Give quantitative training to other African scientists.
+(ii) Giving quantitative training to other African scientists.
+(iii) Mentoring young scientists in computational research.
+(iv) Building strong partnerships with other centers of excellence in computational reserach all over the world.
 
 # The team
 1. Dr John Kitayimbwa (Director, Center for Computational Biology, Uganda Christian University; DVC academic affairs, Uganda Christian University; PhD Compuatational Biology; MPhil in Computational Biology; Masters in Mathematics; Bachelor of Science with Education: Mathematics, Chemistry); Email: jkitayimbwa@ucu.ac.ug
-2. Dr Ronald Galiwango (Senior Scientist, Center for Computational Biology, Uganda Christian University; PhD in Computational Epidemiology = Bioinformatics + Classical Epidemiology; MPhil in Computational Biology, BSc., (Mathematics, Statistics)); Email: rgaliwango@ucu.ac.ug
+2. Dr Ronald Galiwango (Senior Scientist and coordinator, Center for Computational Biology, Uganda Christian University; PhD in Computational Epidemiology (Epidemiology, Bioinformatics); MPhil in Computational Biology, BSc., (Mathematics, Statistics)); Email: rgaliwango@ucu.ac.ug
 3. Dr Hassan Kayondo (Mathematical and statistical modelling and Phylogenetics)
 4. Dr Aloysius Semaganda (Immunology)
 5. Dr Doreen Ssebuliba Mbabazi (Mathematical modelling)
@@ -27,10 +30,12 @@ Our vision is to become a world leader in quality computational biology research
 9. Dr. Juliet Nakakawa (Mathematical modelling)
 10. Dr. Nicholas Bbosa (Phylogenetics)
 11. Jamila Nazziwa (PhD candidate)
-12. Vincent Arumadri 
-13. Bumba James (Programming, computer science)
+12. Vincent Arumadri (Laboratory Technologist)
+13. Bumba James (Programming, computer science, Laboratory Technologist)
 14. Bernard Molho Wabwire (administrator)
 15. Martha Kirabo (MA, Economic Policy)
 16. Agnes Namyalo (Data science and machine learning)
 17. Letisha Najjemba (Mathematical and Statistical modelling)
+18. Joseph Ndaebwa (Computer Scientist)
+19. Prof. Monica Balya Chibita (Mass Communication/Communication expert)
 
